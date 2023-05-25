@@ -1,0 +1,388 @@
+{
+    "Id": 1,
+    "Group number": "C27f7857b5280f3be4dd84d00d0cb6a39",
+    "Group url": "https://chat.line.biz/Uaa81f123f110801e64ea590c0c92d671/chat/C27f7857b5280f3be4dd84d00d0cb6a39",
+    "Is group": "group",
+    "Group name": "xxx",
+    "Group user number": "(3)",
+    "Crawler time": "2023-05-25 10:17:14.259145",
+    "Nation category": "1-境外",
+    "Data source": "LINE",
+    "Intime": "2023-05-25 10:17:14.396004",
+    "Content": [
+        {
+            "Massage id": 1,
+            "Group name": "xxx",
+            "Sender type": "User",
+            "Sender name": "guxiguo",
+            "Date": "Sat, May 6",
+            "Time": "09:18",
+            "Message": [
+                "fds"
+            ]
+        },
+        {
+            "Massage id": 2,
+            "Group name": "xxx",
+            "Sender type": "Account",
+            "Sender name": "Auto-response",
+            "Date": "Sat, May 6",
+            "Time": "09:18",
+            "Message": [
+                "感謝您的訊息！很抱歉，本帳號無法個別回覆用戶的訊息。敬請期待我們下次發送的內容喔",
+                "https://stickershop.line-scdn.net/sticonshop/v1/sticon/5ac1bfd5040ab15980c9b435/ANDROID/012_key.png"
+            ]
+        },
+        {
+            "Massage id": 3,
+            "Group name": "xxx",
+            "Sender type": "User",
+            "Sender name": "guxiguo",
+            "Date": "Sat, May 6",
+            "Time": "10:56",
+            "Message": [
+                "sdc"
+            ]
+        },
+        {
+            "Massage id": 4,
+            "Group name": "xxx",
+            "Sender type": "Account",
+            "Sender name": "Auto-response",
+            "Date": "Sat, May 6",
+            "Time": "10:56",
+            "Message": [
+                "感謝您的訊息！很抱歉，本帳號無法個別回覆用戶的訊息。敬請期待我們下次發送的內容喔",
+                "https://stickershop.line-scdn.net/sticonshop/v1/sticon/5ac1bfd5040ab15980c9b435/ANDROID/012_key.png"
+            ]
+        },
+        {
+            "Massage id": 5,
+            "Group name": "xxx",
+            "Sender type": "User",
+            "Sender name": "guxiguo",
+            "Date": "Thu, May 25",
+            "Time": "00:50",
+            "Message": [
+                "ok",
+                "哦扣扣"
+            ]
+        },
+        {
+            "Massage id": 6,
+            "Group name": "xxx",
+            "Sender type": "User",
+            "Sender name": "guxiguo",
+            "Date": "Thu, May 25",
+            "Time": "07:49",
+            "Message": [
+                "https://stickershop.line-scdn.net/stickershop/v1/sticker/52002735/ANDROID/sticker.png"
+            ]
+        },
+        {
+            "Massage id": 7,
+            "Group name": "xxx",
+            "Sender type": "User",
+            "Sender name": "gxg",
+            "Date": "Thu, May 25",
+            "Time": "07:50",
+            "Message": [
+                "你好"
+            ]
+        },
+        {
+            "Massage id": 8,
+            "Group name": "xxx",
+            "Sender type": "User",
+            "Sender name": "guxiguo",
+            "Date": "Thu, May 25",
+            "Time": "08:07",
+            "Message": [
+                "你好",
+                "https://stickershop.line-scdn.net/stickershop/v1/sticker/52002734/ANDROID/sticker.png",
+                "https://stickershop.line-scdn.net/stickershop/v1/sticker/52002735/ANDROID/sticker.png"
+            ]
+        },
+        {
+            "Massage id": 9,
+            "Group name": "xxx",
+            "Sender type": "User",
+            "Sender name": "guxiguo",
+            "Date": "Thu, May 25",
+            "Time": "09:28",
+            "Message": [
+                "123"
+            ]
+        },
+        {
+            "Massage id": 10,
+            "Group name": "xxx",
+            "Sender type": "User",
+            "Sender name": "guxiguo",
+            "Date": "Thu, May 25",
+            "Time": "09:29",
+            "Message": [
+                "https://chat-content.line.biz/bot/Uaa81f123f110801e64ea590c0c92d671/KdU7l_siZ5lOtKWxoftz0e2eANl3BnSK3jAWZ2AVR5dSJ4CBu8t7xt9wopkHVo2WfD2P46InAoRSwQ2uLk7ovBLGy-0y3Bd0naA4-mq38PX023AsTRZcVidHBFCkzlT3-Y6RmCFYWj9R9NUu3GhWkQ==/preview"
+            ]
+        },
+        {
+            "Massage id": 11,
+            "Group name": "xxx",
+            "Sender type": "User",
+            "Sender name": "guxiguo",
+            "Date": "Thu, May 25",
+            "Time": "09:43",
+            "Message": [
+                "00:05"
+            ]
+        },
+        {
+            "Massage id": 12,
+            "Group name": "xxx",
+            "Sender type": "User",
+            "Sender name": "guxiguo",
+            "Date": "Thu, May 25",
+            "Time": "10:05",
+            "Message": [
+                "00:03"
+            ]
+        },
+        {
+            "Massage id": 13,
+            "Group name": "xxx",
+            "Sender type": "User",
+            "Sender name": "guxiguo",
+            "Date": "Thu, May 25",
+            "Time": "10:05",
+            "Message": [
+                "00:03"
+            ]
+        },
+        {
+            "Massage id": 14,
+            "Group name": "xxx",
+            "Sender type": "User",
+            "Sender name": "guxiguo",
+            "Date": "Thu, May 25",
+            "Time": "10:06",
+            "Message": [
+                "https://chat-content.line.biz/bot/Uaa81f123f110801e64ea590c0c92d671/15tBg0LTo6hfB1XZ8zPhLBADOwBT-cn0o7k7qSAnGoGY6trspHZJ_jFof2j-b-FZVstjsu-LNkEKZU_97nL6vUw3WPfIXlxDDEy0ecibbcNtFMMpVtabIsQmpZoABDJ46jNu5bRgUMkvYKl3YQCxcw==/preview"
+            ]
+        },
+        {
+            "Massage id": 15,
+            "Group name": "xxx",
+            "Sender type": "User",
+            "Sender name": "guxiguo",
+            "Date": "Thu, May 25",
+            "Time": "10:06",
+            "Message": [
+                "https://chat-content.line.biz/bot/Uaa81f123f110801e64ea590c0c92d671/ozNcT1u6sjOWvv8oYNA3DInYq0wht4x9vfk62jX14D1vrx5Jdkcz32LoeA_hsvAUVaNkKnroGqeZAxYUodU0igRsWEdrn7beENgLev1D1egQypGYzCFquDYdaYNOZQzJkCPUNF5rJUTpUxwFl42Qjw==/preview"
+            ]
+        },
+        {
+            "Massage id": 16,
+            "Group name": "xxx",
+            "Sender type": "User",
+            "Sender name": "guxiguo",
+            "Date": "Thu, May 25",
+            "Time": "10:10",
+            "Message": [
+                "dfg"
+            ]
+        },
+        {
+            "Massage id": 17,
+            "Group name": "xxx",
+            "Sender type": "User",
+            "Sender name": "guxiguo",
+            "Date": "Thu, May 25",
+            "Time": "10:10",
+            "Message": [
+                "00:01"
+            ]
+        },
+        {
+            "Massage id": 18,
+            "Group name": "xxx",
+            "Sender type": "User",
+            "Sender name": "guxiguo",
+            "Date": "Thu, May 25",
+            "Time": "10:10",
+            "Message": [
+                "https://chat-content.line.biz/bot/Uaa81f123f110801e64ea590c0c92d671/W39H2LuIIeBvz5yiXUm2vp8lt2v8Q7hS7H7IvjszyZYYHLtJRHnBav0a3zTDcUAHxyUWG1UUi4YVTPz5VxxzvVuZNbZbxKs8y-GWUUpdEMRasnKeUycAIcbQ1dwz9-fCxjd32DvNFM_jZ_FnFQeU0g==/preview"
+            ]
+        },
+        {
+            "Massage id": 19,
+            "Group name": "xxx",
+            "Sender type": "User",
+            "Sender name": "gxg",
+            "Date": "Thu, May 25",
+            "Time": "10:14",
+            "Message": [
+                "00:02"
+            ]
+        },
+        {
+            "Massage id": 20,
+            "Group name": "xxx",
+            "Sender type": "User",
+            "Sender name": "gxg",
+            "Date": "Thu, May 25",
+            "Time": "10:14",
+            "Message": [
+                "https://stickershop.line-scdn.net/stickershop/v1/sticker/52002734/ANDROID/sticker.png"
+            ]
+        },
+        {
+            "Massage id": 21,
+            "Group name": "xxx",
+            "Sender type": "User",
+            "Sender name": "gxg",
+            "Date": "Thu, May 25",
+            "Time": "10:15",
+            "Message": [
+                "https://chat-content.line.biz/bot/Uaa81f123f110801e64ea590c0c92d671/wo8KH0YtIDh1S6C2tebIII7FnL_IAzEyKjqgNCxu4KpolRovrIMjFG8Byt0Z9FdPlBW-Z4eOnDJc9mE_3LlWyTAVKex03GQREsMQ74sZUlObaVa5kxDTak9e-wLbiKcOQQq1-WG3eFy_I7uXKcbEYg==/preview"
+            ]
+        },
+        {
+            "Massage id": 22,
+            "Group name": "xxx",
+            "Sender type": "User",
+            "Sender name": "gxg",
+            "Date": "Thu, May 25",
+            "Time": "10:15",
+            "Message": [
+                "xxx",
+                "gfd"
+            ]
+        },
+        {
+            "Massage id": 23,
+            "Group name": "xxx",
+            "Sender type": "User",
+            "Sender name": "guxiguo",
+            "Date": "Thu, May 25",
+            "Time": "10:15",
+            "Message": [
+                "https://stickershop.line-scdn.net/stickershop/v1/sticker/52002734/ANDROID/sticker.png"
+            ]
+        }
+    ]
+}{
+    "Id": 2,
+    "Group number": "C16fedda7485ab73bd18046d2435d6d77",
+    "Group url": "https://chat.line.biz/Uaa81f123f110801e64ea590c0c92d671/chat/C16fedda7485ab73bd18046d2435d6d77",
+    "Is group": "group",
+    "Group name": "LINE",
+    "Group user number": "(4)",
+    "Crawler time": "2023-05-25 10:17:45.984616",
+    "Nation category": "1-境外",
+    "Data source": "LINE",
+    "Intime": "2023-05-25 10:17:46.023780",
+    "Content": [
+        {
+            "Massage id": 1,
+            "Group name": "LINE",
+            "Sender type": "User",
+            "Sender name": "gxg",
+            "Date": "Fri, May 5",
+            "Time": "16:31",
+            "Message": [
+                "https://stickershop.line-scdn.net/stickershop/v1/sticker/52002734/ANDROID/sticker.png"
+            ]
+        },
+        {
+            "Massage id": 2,
+            "Group name": "LINE",
+            "Sender type": "Account",
+            "Sender name": "Auto-response",
+            "Date": "Fri, May 5",
+            "Time": "16:31",
+            "Message": [
+                "感謝您的訊息！很抱歉，本帳號無法個別回覆用戶的訊息。敬請期待我們下次發送的內容喔",
+                "https://stickershop.line-scdn.net/sticonshop/v1/sticon/5ac1bfd5040ab15980c9b435/ANDROID/012_key.png"
+            ]
+        },
+        {
+            "Massage id": 3,
+            "Group name": "LINE",
+            "Sender type": "User",
+            "Sender name": "gxg",
+            "Date": "Fri, May 5",
+            "Time": "16:37",
+            "Message": [
+                "hfdh"
+            ]
+        },
+        {
+            "Massage id": 4,
+            "Group name": "LINE",
+            "Sender type": "Account",
+            "Sender name": "Auto-response",
+            "Date": "Fri, May 5",
+            "Time": "16:37",
+            "Message": [
+                "感謝您的訊息！很抱歉，本帳號無法個別回覆用戶的訊息。敬請期待我們下次發送的內容喔",
+                "https://stickershop.line-scdn.net/sticonshop/v1/sticon/5ac1bfd5040ab15980c9b435/ANDROID/012_key.png"
+            ]
+        },
+        {
+            "Massage id": 5,
+            "Group name": "LINE",
+            "Sender type": "User",
+            "Sender name": "gxg",
+            "Date": "Fri, May 5",
+            "Time": "16:37",
+            "Message": [
+                "hfxxgh"
+            ]
+        },
+        {
+            "Massage id": 6,
+            "Group name": "LINE",
+            "Sender type": "Account",
+            "Sender name": "Auto-response",
+            "Date": "Fri, May 5",
+            "Time": "16:37",
+            "Message": [
+                "感謝您的訊息！很抱歉，本帳號無法個別回覆用戶的訊息。敬請期待我們下次發送的內容喔",
+                "https://stickershop.line-scdn.net/sticonshop/v1/sticon/5ac1bfd5040ab15980c9b435/ANDROID/012_key.png"
+            ]
+        },
+        {
+            "Massage id": 7,
+            "Group name": "LINE",
+            "Sender type": "User",
+            "Sender name": "gxg",
+            "Date": "Fri, May 5",
+            "Time": "16:40",
+            "Message": [
+                "dfg"
+            ]
+        },
+        {
+            "Massage id": 8,
+            "Group name": "LINE",
+            "Sender type": "User",
+            "Sender name": "guxiguo",
+            "Date": "Fri, May 5",
+            "Time": "17:04",
+            "Message": [
+                "xnd"
+            ]
+        },
+        {
+            "Massage id": 9,
+            "Group name": "LINE",
+            "Sender type": "User",
+            "Sender name": "guxiguo",
+            "Date": "Wed, May 10",
+            "Time": "08:30",
+            "Message": [
+                "hdfd"
+            ]
+        }
+    ]
+}
